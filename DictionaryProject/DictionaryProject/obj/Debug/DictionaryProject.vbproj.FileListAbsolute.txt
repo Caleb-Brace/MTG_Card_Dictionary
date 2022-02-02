@@ -1,0 +1,13 @@
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe.config
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.exe
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.pdb
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\bin\Debug\DictionaryProject.xml
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.Form1.resources
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.Resources.resources
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.vbproj.GenerateResource.cache
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.vbproj.CoreCompileInputs.cache
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.exe
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.xml
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.pdb
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.Form2.resources
+C:\Users\T0ken\source\repos\DictionaryProject\DictionaryProject\obj\Debug\DictionaryProject.vbprojAssemblyReference.cache

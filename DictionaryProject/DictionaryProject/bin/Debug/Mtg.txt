@@ -1,0 +1,5 @@
+(1, Elvish  Mystic, 1, 0, 1, Elf, 0, 4)
+(2, Shivan Dragon, 6, 0, 1, Dragon, 2, 3)
+(3, Bigger Dragon, 5, 0, 1, Dragon, 2, 3)
+(4, Biggest Dragon, 2, 2, 1, Dragon, 3, 3)
+(5, Giant Dragon, 12, 2, 1, Dragon, 3, 3)
